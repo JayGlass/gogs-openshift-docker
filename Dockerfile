@@ -1,6 +1,6 @@
 # FROM centos:7
 # FROM registry.redhat.io/ubi7/ubi
-FROM ubi
+FROM gogs-test/ubi7:latest
 
 MAINTAINER Erik Jacobs <erikmjacobs@gmail.com>
 
