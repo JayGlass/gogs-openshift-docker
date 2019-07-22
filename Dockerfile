@@ -1,5 +1,6 @@
 # FROM centos:7
-FROM registry.redhat.io/ubi7/ubi
+# FROM registry.redhat.io/ubi7/ubi
+FROM ubi
 
 MAINTAINER Erik Jacobs <erikmjacobs@gmail.com>
 
